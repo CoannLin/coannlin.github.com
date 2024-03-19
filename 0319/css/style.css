@@ -11,8 +11,8 @@
     text-align: center;
 }
 #caption img {
-    -webkit-box-shadow: 15px 15px;
-    box-shadow: 15px 15px;
+    -webkit-box-shadow: 15px 15px #723E3E;
+    box-shadow: 15px 15px #723E3E;
 }
 
 main2 {
